@@ -1,15 +1,18 @@
 # Turtle Races App
-The Turtle Races App is a Python program that simulates a turtle race using the Turtle graphics library. Users can choose a turtle to bet on, and the program will randomly move the turtles forward until one of them crosses the finish line. If the user's chosen turtle wins, they win the bet; otherwise, they lose. The app offers a simple and interactive way to enjoy a virtual turtle race.
+The Turtle Races App is a Python program that simulates a turtle race using the Turtle graphics library. 
+
+Users can choose a turtle to bet on, and the program will randomly move the turtles forward until one of them crosses the finish line. 
+
+If the user's chosen turtle wins, they win the bet; otherwise, they lose. The app offers a simple and interactive way to enjoy a virtual turtle race.
 
 # Features
 Simulates a turtle race with multiple turtles.
+
 Allows users to choose a turtle to bet on.
+
 Randomly moves the turtles forward in each iteration.
+
 Announces the winner and whether the user's bet was correct or not.
-Getting Started
-Prerequisites
-Python 3.x
-Turtle graphics library
 
 # Usage
 1. Make sure you have Python installed. You can download it from the official Python website.
@@ -31,11 +34,14 @@ Turtle graphics library
 9. Close the race window by clicking on it when you're finished.
 
 # Contributing
-This app can be expanded and customized in various ways. Feel free to contribute by adding new features, such as customizable race parameters, additional visual effects, or betting interfaces.
+This app can be expanded and customized in various ways. 
+
+Feel free to contribute by adding new features, such as customizable race parameters, additional visual effects, or betting interfaces.
 
 # License
 This project is licensed under the MIT License.
 
 # Acknowledgments
 The app was created as a fun project using Python and the Turtle graphics library.
+
 Enjoy the excitement of the virtual turtle races and may the odds be in your favor!
